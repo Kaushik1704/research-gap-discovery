@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+sentence-transformers
+bertopic
+networkx
+numpy
+scikit-learn
+requests
+python-dotenv
+aiofiles
+umap-learn
+hdbscan
+plotly
+pandas

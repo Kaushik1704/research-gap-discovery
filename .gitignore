@@ -1,0 +1,27 @@
+# Python virtual environments
+.venv/
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables (secrets)
+.env
+backend/.env
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Logs
+*.log
+backend/backend.err.log
+backend/backend.out.log
+
+# IDE
+.vscode/
+*.DS_Store
+
+# Model cache
+.cache/
